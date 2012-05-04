@@ -10,6 +10,12 @@ then,
 1. touch NFC tag (not works on tagtodo app)
 2. the URL will launch.
 
+## Build
+
+you need sbt: `brew install sbt`
+
+    $ sbt android:package-debug android:install-device android:start-device
+
 ## Author
 
 * Shota Fukumori (sora\_h) <sorah@tubusu.net>
