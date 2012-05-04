@@ -24,7 +24,7 @@ you need sbt: `brew install sbt`
 
 MIT License:
 
-    Copyright (c) 2012 Shota Fukumori (sora\_h)
+    Copyright (c) 2012 Shota Fukumori (sora_h)
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to
