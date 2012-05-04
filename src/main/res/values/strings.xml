@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tagtodo</string>
+    <string name="receiver">Tagtodo Receiver</string>
+    <string name="editor">Tagtodo Editor</string>
+</resources>
